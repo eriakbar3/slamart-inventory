@@ -1,0 +1,1 @@
+# slamart-inventory
